@@ -4,7 +4,7 @@
   <title><![CDATA[Vinod's Octopress Blog]]></title>
   <link href="http://vinodlala.github.io/atom.xml" rel="self"/>
   <link href="http://vinodlala.github.io/"/>
-  <updated>2013-09-17T10:55:51-04:00</updated>
+  <updated>2013-09-17T11:13:36-04:00</updated>
   <id>http://vinodlala.github.io/</id>
   <author>
     <name><![CDATA[Vinod]]></name>
@@ -12,5 +12,81 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First post]]></title>
+    <link href="http://vinodlala.github.io/blog/2013/09/17/first-post/"/>
+    <updated>2013-09-17T11:03:00-04:00</updated>
+    <id>http://vinodlala.github.io/blog/2013/09/17/first-post</id>
+    <content type="html"><![CDATA[<h1>Header 1</h1>
+
+<h2>Header 2</h2>
+
+<h3>Header 3</h3>
+
+<h4>Header 4</h4>
+
+<h5>Header 5</h5>
+
+<h6>Header 6</h6>
+
+<h1>Alternate Header 1</h1>
+
+<h2>Alternate Header 2</h2>
+
+<p>Emphasis, aka italics, with <em>asterisks</em> or <em>underscores</em>.</p>
+
+<p>Strong emphasis, aka bold, with <strong>asterisks</strong> or <strong>underscores</strong>.</p>
+
+<p>Combined emphasis with <strong>asterisks and <em>underscores</em></strong>.</p>
+
+<p>Strikethrough uses two tildes. <del>Scratch this.</del></p>
+
+<ol>
+<li>First ordered list item</li>
+<li>Another item
+⋅⋅* Unordered sub-list.</li>
+<li>Actual numbers don&rsquo;t matter, just that it&rsquo;s a number
+⋅⋅1. Ordered sub-list</li>
+<li>And another item.</li>
+</ol>
+
+
+<p>⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we&rsquo;ll use three here to also align the raw Markdown).</p>
+
+<p>⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
+⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
+⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)</p>
+
+<ul>
+<li>Unordered list can use asterisks</li>
+<li>Or minuses</li>
+<li>Or pluses</li>
+</ul>
+
+
+<p><a href="https://www.google.com">I&rsquo;m an inline-style link</a></p>
+
+<p><a href="https://www.google.com" title="Google's Homepage">I&rsquo;m an inline-style link with title</a></p>
+
+<p><a href="https://www.mozilla.org">I&rsquo;m a reference-style link</a></p>
+
+<p><a href="../blob/master/LICENSE">I&rsquo;m a relative reference to a repository file</a></p>
+
+<p><a href="http://slashdot.org">You can use numbers for reference-style link definitions</a></p>
+
+<p>Or leave it empty and use the <a href="http://www.reddit.com">link text itself</a></p>
+
+<p>Some text to show that the reference links can follow later.</p>
+
+<p>Here&rsquo;s our logo (hover to see the title text):</p>
+
+<p>Inline-style:
+<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" title="Logo Title Text 1" alt="alt text" /></p>
+
+<p>Reference-style:
+<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" title="Logo Title Text 2" alt="alt text" /></p>
+]]></content>
+  </entry>
   
 </feed>
