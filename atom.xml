@@ -4,7 +4,7 @@
   <title><![CDATA[Vinod's Octopress Blog]]></title>
   <link href="http://vinodlala.github.io/atom.xml" rel="self"/>
   <link href="http://vinodlala.github.io/"/>
-  <updated>2013-09-20T10:10:46-04:00</updated>
+  <updated>2013-09-27T10:01:34-04:00</updated>
   <id>http://vinodlala.github.io/</id>
   <author>
     <name><![CDATA[Vinod]]></name>
@@ -12,6 +12,51 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[SQL and Ruby]]></title>
+    <link href="http://vinodlala.github.io/blog/2013/09/27/sql-and-ruby/"/>
+    <updated>2013-09-27T09:18:00-04:00</updated>
+    <id>http://vinodlala.github.io/blog/2013/09/27/sql-and-ruby</id>
+    <content type="html"><![CDATA[<p>The second week has also been both fun and productive.</p>
+
+<p>The bowling project was a nice way to go over RSpec using a familiar, yet somewhat complicated set of rules.</p>
+
+<p>The blackjack project was also very good, for the same reasons.</p>
+
+<p>It was a great idea to use IMDB as the basis for learning about databases and SQL.</p>
+
+<p>Using SQL statements in the terminal was good.  I hope we continue small challenges with hints that are hidden until clicked on.  Hints could be real hints (such as how to start a query, or a question to think about).  I like seeing correct output so I really know I did the challlenge right.  And multiple solutions (correct code) are also good to see.</p>
+
+<p>So the order can be challenge, correct output, hints, correct code.</p>
+
+<p>Using SQL statements in a ruby program and learning about meta-programming was mind-blasting.  I think I really understand how to use instance and class methods.  TTL was okay, but I don&rsquo;t think it reallly enhanced my understanding as much as just having a chance to do some research on it.  For the past couple of weeks, I liked not having to get into teacher-mode.</p>
+
+<p>For the paired programming for SimpleRecord, my partner was not there the first day, and it was nice to work alone.  I found I could focus on a train of thought for a while, without getting derailed with a distraction.  This time around, having a teacher sit with me a couple of times for a few minutes at a time worked well for me.  I also didn&rsquo;t have to hold back the urge to take the keyboard away and do it myself.</p>
+
+<p>Hipchat has been fun and useful.  The students have random conversations verbally, which is a nice break from coding, but having Hipchat conversations is also good because it is not disturbing or distracting to others.</p>
+
+<p>Hipchat has also been great for sharing code, whether it is snippets of code or a bunch of files (such as the ones made during paired programming).  Jeffrey in particular has been great about explaining and sharing code, and has been my go-to when David and Nimit are not available.  I try to pay it forward by sharing explanations and code with other students.</p>
+
+<p>Sometimes I get to a point where no matter how much I think about a coding issue, I simply cannot get past it.  When I see the solution, it suddenly makes sense.  Sometimes the solution does something very clever that I don&rsquo;t think I would have thought of on my own, which is cool.  Other times the solution uses something I never learned, which can be frustrating.</p>
+
+<p>I actually like using a website (treehouse, codeacademy, or codeschool) during the day for learning, but the SQL videos and challenges we did for SQL were kind of painful (annoying speaker, no editing on the command line, unforgiving with errors).</p>
+
+<p>At this point, I feel very comfortable with Ruby and SQL.</p>
+
+<p>On the other hand, Git still seems kind of cryptic to me.  I am still in monkey-see monkey-do mode without really understanding what is going on.  I will go into that on my own.</p>
+
+<p>For the weekly blog post, questions to answer would be good.  With TTL, we were given questions to answer and that provided focus.  For weekly blog posts, maybe we can be given similar questions, such as &ldquo;What did you like/hate about Bowling/Blackjack/SimpleRecord?&rdquo; and &ldquo;How do you feel about Ruby/SQL/Git?&rdquo;</p>
+
+<p>The Fullstack++ dinner was great for meeting others.  My parents enjoyed meeting my classmates, and she would be happy to invite students who have no Thanksgiving plans to join us.</p>
+
+<p>My brother was interested in attending before the dinner, and now he wants to quit his job and attend in January.  He&rsquo;s already studying.  My friend also seems interested.</p>
+
+<p>I have had great first impressions of the other students, and each of them is growing on me more and more.</p>
+
+<p>There&rsquo;s a nice tight range of skill levels but everyone is just really cool, too.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Friday #4]]></title>
