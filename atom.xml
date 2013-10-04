@@ -4,7 +4,7 @@
   <title><![CDATA[Vinod's Octopress Blog]]></title>
   <link href="http://vinodlala.github.io/atom.xml" rel="self"/>
   <link href="http://vinodlala.github.io/"/>
-  <updated>2013-09-27T10:01:34-04:00</updated>
+  <updated>2013-10-04T10:15:39-04:00</updated>
   <id>http://vinodlala.github.io/</id>
   <author>
     <name><![CDATA[Vinod]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Friday]]></title>
+    <link href="http://vinodlala.github.io/blog/2013/10/04/friday/"/>
+    <updated>2013-10-04T09:41:00-04:00</updated>
+    <id>http://vinodlala.github.io/blog/2013/10/04/friday</id>
+    <content type="html"><![CDATA[<p>Stackworld:</p>
+
+<p>This workshop was a lot of fun and gave me a much better understanding of how games I play work.  It also gave me ideas for potential websites (making a similar game but instead of killing dragons the user has to solve problems).</p>
+
+<p>There was good buildup for the Stackworld workshop, too &ndash; do a basic game first, then add player information storage and/or pusher capability later.  This was a bit copy-and-pasty.  I could have used a bit of pseudo-code to at least come up with something somewhat resembling real code before frustration set in and I went for the solution.  The explanations are good, but some ask-yourself questions would have been good, too.</p>
+
+<p>Installing postgres was a pain for me as well as other students.  Eventually, we worked through it, but we all had similar solutions.</p>
+
+<p>Sinatra and tux are great tools.</p>
+
+<p>Sinatra Linker was added after SimStackWorld, and it was a nice review, but I think it would have been better to actually do Sinatra Linker before doing SimStackWorld.</p>
+
+<p>Regex:</p>
+
+<p>This workshop was good, but could use more simple challenges that build up to the harder challenges that are already there.  For example, search for 3 letter phrases, then look for 3 digit base-10 numbers, then look for 3 digit base 16 numbers, then look for 6 digit hex strings, then look for 3-or-6 digit hexstrings.  Hints and solutions would have been nice, too.  Generally, test strings could be a bit more complicated so that the regex expressions have to be tighter.  It seemed like the importance of () was missed.</p>
+
+<p>Paired vs. solo programming:</p>
+
+<p>I definitely like working alone more than working in a pair.  I am fine asking questions and answering questions as needed.  I think if someone just hipchatted &ldquo;I need help with #{some_problem}&rdquo; anyone else would be willing to throw them a hint or sit down with them.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[SQL and Ruby]]></title>
