@@ -4,7 +4,7 @@
   <title><![CDATA[Vinod's Octopress Blog]]></title>
   <link href="http://vinodlala.github.io/atom.xml" rel="self"/>
   <link href="http://vinodlala.github.io/"/>
-  <updated>2013-10-04T10:15:39-04:00</updated>
+  <updated>2013-10-11T12:38:50-04:00</updated>
   <id>http://vinodlala.github.io/</id>
   <author>
     <name><![CDATA[Vinod]]></name>
@@ -12,6 +12,50 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Rails2]]></title>
+    <link href="http://vinodlala.github.io/blog/2013/10/11/rails2/"/>
+    <updated>2013-10-11T12:26:00-04:00</updated>
+    <id>http://vinodlala.github.io/blog/2013/10/11/rails2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Rails]]></title>
+    <link href="http://vinodlala.github.io/blog/2013/10/11/rails/"/>
+    <updated>2013-10-11T12:22:00-04:00</updated>
+    <id>http://vinodlala.github.io/blog/2013/10/11/rails</id>
+    <content type="html"><![CDATA[<p>worldwalker</p>
+
+<p>This was a very cool app once it got going.</p>
+
+<p>Work environment reset</p>
+
+<p>Spending the morning setting up machines was a good exercise, but it could have been done on the first day of class.</p>
+
+<p>The tips we get throughout the course are useful, but I ended up just putting them off and then forgetting about t.hem  So while we&rsquo;re setting up our boxes (gems, etc.) we could follow the tips of installing apps like alfred, dash, etc.</p>
+
+<p>linker_app_rails</p>
+
+<p>After doing the regular linker_app (which wasn&rsquo;t an assigned workshop but inserted &ldquo;before&rdquo; the first stackworld), I got a real appreciation for rails.  Rails has a learning curve, but it&rsquo;s ultimately worth it since rails does so much work for us.</p>
+
+<p>stackworld_rails</p>
+
+<p>Same idea as linker_app_rails.  One thing I did that helped me appreciate rails was have both the original StackWorld project and the new StackWorld__rails project open in separate sublime editors.  I then compared the files to each other.</p>
+
+<p>I had no problem creating rooms/connections/items/players and editing rooms.  Editing connections/items/players was an issue because there was no parallel in the original StackWorld.  I implemented editing of the first record, but didn&rsquo;t come up with a way to edit other records.</p>
+
+<p>In the future, I think ditching items and players would be good.  Items didn&rsquo;t really add anything.  Dealing with things like player sessions could be a separate app.  Just focus on rooms and connections.  Also, having us use all seven actions would be good.  So less data, more actions.</p>
+
+<p>RoutingTestFirst</p>
+
+<p>This was good, but I thought there was too much information to absorb at once from the reading, followed by too many questions to answer in the rspec.</p>
+
+<p>The rpsec could have comments that point out what particular section to read that is relevant to pass a particular test.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Friday]]></title>
