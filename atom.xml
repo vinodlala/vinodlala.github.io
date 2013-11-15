@@ -4,7 +4,7 @@
   <title><![CDATA[Vinod's Octopress Blog]]></title>
   <link href="http://vinodlala.github.io/atom.xml" rel="self"/>
   <link href="http://vinodlala.github.io/"/>
-  <updated>2013-10-11T12:38:50-04:00</updated>
+  <updated>2013-11-15T10:26:08-05:00</updated>
   <id>http://vinodlala.github.io/</id>
   <author>
     <name><![CDATA[Vinod]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Story Stacker]]></title>
+    <link href="http://vinodlala.github.io/blog/2013/11/15/story-stacker/"/>
+    <updated>2013-11-15T10:12:00-05:00</updated>
+    <id>http://vinodlala.github.io/blog/2013/11/15/story-stacker</id>
+    <content type="html"><![CDATA[<p>Story Stacker is intended to have three functions:</p>
+
+<p>Collaborative Writing &ndash; Writers can get together to write stories together with friends or strangers.</p>
+
+<p>Readers Offering Bounties to Writers &ndash; Readers can set bounties or offering commissions to writers to write their stories for them (such as a parent offering payment for someone to write a children&rsquo;s book with their child&rsquo;s name in it).</p>
+
+<p>Writers Pitching Ideas and Getting Funding &ndash; Writers may have an idea, but they want to see if there is interest first.  They can pitch their ideas, and readers can express interest through votes or donations.</p>
+
+<p>I decided to start with the Collaborative Writing aspect.  I saw that Backbone.js is used by many companies, including companies I am interested in joining such as Khan Academy and Code School.</p>
+
+<p>We did a copy-and-paste Todos app using Backbone and I did tutorials on Code School for Backbone.</p>
+
+<p>I really wanted to understand Backbone better and decided to use it for my project.  I figured it would take me longer than usual to build stuff at first, but in the long run it would be a time-saver.</p>
+
+<p>Using Backbone has been making me take me a lot longer than I estimated, but I am also realizing just how powerful it is.  I still consider myself a novice with Backbone, but I think, given time and practice, it can become second nature to me.</p>
+
+<p>I also used Bootstrap with the intention of having Story Stacker look good on smaller screens of handheld devices.  Writing does not have to be limited to a computer.</p>
+
+<p>David showed me how to use Pusher, so that readers get the most up to date list of entries for a story.</p>
+
+<p>I keep getting other ideas to implement, and I&rsquo;m not sure where to start.  I was considering using the New York Times APIs for book lists and movie reviews, pulling plot summaries to provide inspiration.</p>
+
+<p>Although I am happy with how the website is going so far, my interest in it and my hopes for it waver a lot.  Sometimes I think I am just wasting my time building something that no one will really be interested in.  Other times I think this is filling a niche.  I will keep hacking away at it.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Rails2]]></title>
